@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prematid
 - 👀 I’m interested in Full Stack Debelopment
-- 🌱 I’m currently learning GoLang, Node.js & Next.js
+- 🌱 I code in GoLang, Python, Javascript & C++
 - 💞️ I’m looking to collaborate on any Full Stack Project
 - 📫 How to reach me: On my mail- prematid7@gmail.com 
 
